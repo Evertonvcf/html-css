@@ -52,6 +52,7 @@ section.img1 {
 section.img2 {
     background-color: black;
     background-image: url(imagens/background001.jpg);
+    background-image: url(imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
     
